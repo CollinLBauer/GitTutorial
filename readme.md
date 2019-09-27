@@ -2,12 +2,12 @@
 
 Prerequesites: Make a GitHub account and install git to your computer.
 
-Windows and Mac users can download git [here](https://git-scm.com/).  
-Linux users can install git with `sudo apt-get install git`.
+Windows and Mac users can download git **[here](https://git-scm.com/)**  
+Linux users can install git with `sudo apt-get install git`
 
 ### Instructions for Workshop
 
-#### 1. Fork this repository to your own GitHub account.
+#### 1. Fork this repository to your own GitHub account
 
 #### 2. Clone it!
 
@@ -46,7 +46,7 @@ git push --set-upstream origin mybranch
 
 Great! If you look at your GitHub repository, you should now have *two* branches: **master** and **mybranch**
 
-#### 5. Let's merge the new branch to master.
+#### 5. Merge the new branch to master
 
 ```
 git checkout master 
