@@ -1,10 +1,13 @@
 ## Welcome to the ACM and WIC GitHub workshop!
 
+Prerequesites: Make a GitHub account and install git to your computer.
+
+Windows and Mac users can download git [here](https://git-scm.com/).  
+Linux users can install git with `sudo apt-get install git`.
+
 ### Instructions for Workshop
 
-
-
-#### 1. Fork the reposityory to your own GitHub account.
+#### 1. Fork this reposityory to your own GitHub account.
 
 #### 2. Clone it!
 
