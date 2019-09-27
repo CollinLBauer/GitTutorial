@@ -1,13 +1,55 @@
-### Welcome to the ACM and WIC GitHub workshop!
+Welcome to the ACM and WIC GitHub workshop!
 
-https://github.com/Rafase282/MyFCCWiki/blob/master/Back-End-Development-Certification/Git/Lesson-Save-your-Code-Revisions-Forever-with-Git.md
+### Instructions for Workshop
 
-Here are some things you should try.
 
-1. Fork me!
-2. Clone your fork by typing `git clone github.com/my_name/GitTutorial.git`
-3. Make a text file in your new local repository.
-4. `git commit` your new file, then `git push` it!
+
+1. Fork the reposityory to your own account
+
+`git clone https://github.com/my_name/GitTutorial.git`
+
+2. Create a new file and add it to your fork
+
+Powershell users: `New-Item myFile.txt`  
+Bash users: `touch myFile.txt`
+
+Now Edit the file by typing in their name and some fun fact about themselves.
+
+```
+git status
+git add myFile.txt
+git commit -m “my first commit”
+git push
+```
+
+Great! You just made your first push with git! Now, let's talk about branching.
+
+3. Make a new branch of your repository
+
+```
+git checkout -b mybranch
+git branch
+```
+
+Now change something in your file from earlier and push it to the new branch.
+
+```
+git commit -m “new branch”
+git push --set-upstream origin mybranch
+```
+
+Great! If you look at your GitHub repository, you should now have *two* branches: **master** and **mybranch**
+
+Now, let's merge the new branch to master.
+
+```
+git checkout master 
+git merge mybranch
+git commit -m “merge to master”
+git push
+```
+
+The changes you made should now be in the master branch.
 
 Congratulations! You know git!
 
