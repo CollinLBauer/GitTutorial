@@ -7,7 +7,7 @@ Linux users can install git with `sudo apt-get install git`.
 
 ### Instructions for Workshop
 
-#### 1. Fork this reposityory to your own GitHub account.
+#### 1. Fork this repository to your own GitHub account.
 
 #### 2. Clone it!
 
@@ -56,6 +56,11 @@ git push
 ```
 
 The changes you made should now be in the master branch.
+
+#### 6. Make a pull request to upstream
+
+Since your repository is a fork of someone else's repository, you can ask to merge your changes with their master!  
+You can do this on GitGub by clicking **New pull request**. Add a message and click **submit**, then I can accept and merge it!
 
 Congratulations! You know git!
 
