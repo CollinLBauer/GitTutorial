@@ -10,3 +10,8 @@ Here are some things you should try.
 4. `git commit` your new file, then `git push` it!
 
 Congratulations! You know git!
+
+---
+
+[Helpful git tutorial](https://github.com/Rafase282/MyFCCWiki/blob/master/Back-End-Development-Certification/Git/Lesson-Save-your-Code-Revisions-Forever-with-Git.md)  
+[git 101 presentation](https://drive.google.com/open?id=1tyiOKLQVVEwVtHhDUOF-Wli4dZYBR7r5GwrPSvAy8BE)
