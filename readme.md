@@ -102,6 +102,8 @@ Linux users can install git with `sudo apt-get install git`
    Since your repository is a fork of someone else's repository, you can ask to merge your changes with their master!  
    You can do this on GitGub by clicking **New pull request**. Add a message and click **submit**, then we can accept and merge it!
 
+<br/>
+
 7. *Congratulations!* You now know git!
 
 ---
