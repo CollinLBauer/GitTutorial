@@ -1,3 +1,5 @@
 Hello! My name is Collin.
 
 I like Cats.
+
+I also like dogs.
