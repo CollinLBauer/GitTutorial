@@ -5,6 +5,8 @@
 Windows and Mac users can download git **[here](https://git-scm.com/)**  
 Linux users can install git with `sudo apt-get install git`
 
+**Note**: We will be running git from the command line terminal. If you are new to terminal, feel free to ask for help.
+
 ---
 
 ### Instructions for Workshop
